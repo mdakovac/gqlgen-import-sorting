@@ -8,8 +8,9 @@ import (
 	"context"
 	"fmt"
 
-	"github.com/example/gqlgen-import-sorting/graph/model"
 	"github.com/rs/zerolog"
+
+	"github.com/example/gqlgen-import-sorting/graph/model"
 	"github.com/spf13/viper"
 )
 
